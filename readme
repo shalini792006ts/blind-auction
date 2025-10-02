@@ -1,0 +1,31 @@
+🏆 Blind Auction Program
+
+This project is a simple yet interactive Python-based blind auction system. It allows multiple participants to place hidden bids without revealing their amounts to others.
+
+✨ Features
+
+Accepts each bidder’s name and secret bid.
+
+Stores all bids securely in a dictionary.
+
+Clears the screen after each bid to maintain privacy.
+
+Determines and announces the highest bidder as the winner.
+
+⚙️ How It Works
+
+Each player enters their name and bid.
+
+Program asks if there are more bidders.
+
+If yes, the screen clears and the next player enters.
+
+If no, bidding closes.
+
+The function find_highest_bidder() compares all bids.
+
+The winner with the top bid is revealed.
+
+🚀 Usage
+
+Run the script, enter names and bids, and watch the program crown the top bidder. Perfect for practicing Python basics like dictionaries, loops, functions, and conditionals.
